@@ -4,7 +4,7 @@ Lexora is a peer-to-peer reading platform that refines book recommendations with
 
 # What makes it different?
 
-You can follow the ML algorithm here (note much of the code is database aggregations meant for testing purposes). It truly dynamic and uses an LLM fed guidelines to supervise the Linear Regression Model, which makes oversight seemless.
+You can follow the ML algorithm here:[here](https://github.com/cbsc3/book_reccomendation_algo)(note much of the code is database aggregations meant for testing purposes). It truly dynamic and uses an LLM fed guidelines to supervise the Linear Regression Model, which makes oversight seemless.
 
 #  Tech Stack?
 
